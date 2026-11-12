@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Bahá’í Prayer Book** (iOS)
+**Bahá’í Faith Prayer Book** (iOS)
 Last updated: November 11, 2026
 
 This app does not collect, store, or share any personal information.

@@ -2,4 +2,4 @@
 
 Privacy policies for Naisaan Nadimi's apps.
 
-- [Bahá’í Prayer Book](prayer-book.md)
+- [Bahá’í Faith Prayer Book](prayer-book.md)
